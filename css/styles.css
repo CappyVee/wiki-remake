@@ -1,0 +1,12 @@
+.top-row{
+  background-color: #fcf5de;
+}
+.navbar{
+  background: #a8a599;
+  position: absolute;
+  width: 15%;
+  height: 100%
+}
+.container{
+  position: relative;
+}
