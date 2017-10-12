@@ -3,10 +3,13 @@
 }
 .navbar{
   background: #a8a599;
-  
   width: auto;
   height: 100%;
 }
 .container{
 
+}
+
+li a {
+  font-size: 12px;
 }
