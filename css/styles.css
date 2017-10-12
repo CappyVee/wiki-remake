@@ -5,10 +5,13 @@
   background: #f9f9f9;
   width: auto;
   height: 100%;
+  position: absolute;
 }
 .container{
 
 }
+
+
 
 li a {
   font-size: 12px;
@@ -24,4 +27,47 @@ li a {
 }
 .purple-bottom{
   background:#FAF5FF;
+}
+.header-green {
+  border: 1px solid black;
+  background-color: #CFF2E0;
+}
+.header-blue {
+  border: 1px solid black;
+  background-color: #CEDFF1;
+}
+.header-purple {
+  border: 1px solid black;
+  background-color: #DDCFF1;
+}
+.header-pink {
+  border: 1px solid black;
+  background-color: #F2CEDD;
+}
+.img-right {
+  float: right;
+  margin: 0 0 10px 10px;
+  width: 35%;
+}
+.img-left {
+  float: left;
+  margin: 0 0 10px 10px;
+  width: 35%;
+}
+.img-saffron {
+  /*float: left;*/
+  padding: 1%;
+  width: 35%;
+
+}
+p {
+  text-align: inherit;
+}
+
+div {
+  padding: 1% 1% 1% 1%;
+}
+.align-right {
+  text-align: right;
+  font-size: 10px;
 }
