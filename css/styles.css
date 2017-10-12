@@ -1,10 +1,12 @@
 .top-row{
   background-color: #f9f9f9;
+  font-size: 13px;
+  text-align:
 }
 .navbar{
   background: #f9f9f9;
   width: auto;
-  height: 100%;
+  height: auto;
   position: absolute;
 }
 .container{
@@ -69,5 +71,24 @@ div {
 }
 .align-right {
   text-align: right;
-  font-size: 10px;
+  font-size: 12px;
+}
+.align-left {
+  text-align: left;
+  font-size: 12px;
+}
+
+.mini-left {
+  text-align: left;
+  font-size: 12px;
+}
+body{
+  font-size: 13px;
+}
+.heading-center{
+  text-align: center;
+}
+span {
+  font-weight: 700;
+  color: blue;
 }
