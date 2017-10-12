@@ -1,8 +1,8 @@
 .top-row{
-  background-color: #fcf5de;
+  background-color: #f9f9f9;
 }
 .navbar{
-  background: #a8a599;
+  background: #f9f9f9;
   width: auto;
   height: 100%;
 }
@@ -12,4 +12,16 @@
 
 li a {
   font-size: 12px;
+}
+.left-top{
+ background-color: #f5fffa;
+}
+.right-top{
+  background: #f5faff;
+}
+.red-bottom{
+  background: #FFF5FA;
+}
+.purple-bottom{
+  background:#FAF5FF;
 }
