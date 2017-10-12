@@ -102,3 +102,7 @@ span {
 .card{
   border: 0.5px solid #a5c7ff;
 }
+.nav-item {
+  height: 39px;
+  padding: -10px;
+}
